@@ -4,6 +4,7 @@ Projec Created Using Maven 3 + wildfly-11.0.0.Final
 
 
 To rum integrate Test add maven parameters
+
 	skipTests=false
 	jboss.home=<DIR wildfly>
 	dir.java.home=<DIR JAVA_HOME>
